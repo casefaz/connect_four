@@ -129,3 +129,5 @@ end
 ## Collaborators
 [Thomas Haines](https://github.com/tjhaines-cap/connect_four)</br>
 [Casey Fazio](https://github.com/casefaz)
+
+## [Return to Beginning](#connect-four)
