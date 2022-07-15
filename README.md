@@ -10,6 +10,8 @@
 ## Overview
 This project was done primarily using paired programming in a driver navigator situation
 
+![connect_four_walkthrough](https://user-images.githubusercontent.com/98674727/179306860-0c0de9e2-76f5-4328-b6aa-1cb2431d792e.gif)
+
 #### Technologies
 ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
