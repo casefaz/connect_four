@@ -1,7 +1,7 @@
 # Connect Four
 > A week and a half long paired project from Turing's Backend program highlighting enumerables and user interaction 
+![connect-4-final](https://user-images.githubusercontent.com/98674727/179270646-7a435c91-4411-426b-b040-58073f556b83.gif)
 
-![connect_four](https://user-images.githubusercontent.com/98674727/179262274-7cc9e605-a2b1-4049-a949-2b80936021f6.gif)
 ## Table of Contents
 * [Overview](#overview)
 * [Future Additions](#potential-refactor)
